@@ -1,51 +1,20 @@
-# Hi Yoshi
-# Hi Yoshi
-# Hi Yoshi
-# Hi Yoshi
-# Hi Yoshi
-# Hi Yoshi
-# Hi Yoshi
-# Hi Yoshi
-# Hi Yoshi# Hi Yoshi
-# Hi Yoshi
-# Hi Yoshi
-# Hi Yoshi
-# Hi Yoshi
-# Hi Yoshi
-# Hi Yoshi
-# Hi Yoshi
-# Hi Yoshi# Hi Yoshi
-# Hi Yoshi
-# Hi Yoshi
-# Hi Yoshi
-# Hi Yoshi
-# Hi Yoshi
-# Hi Yoshi
-# Hi Yoshi
-# Hi Yoshi# Hi Yoshi
-# Hi Yoshi
-# Hi Yoshi
-# Hi Yoshi
-# Hi Yoshi
-# Hi Yoshi
-# Hi Yoshi
-# Hi Yoshi
-# Hi Yoshi
+# Release 7.1 & 7.1.1
+*The 4 Year Anniversary Update*
 
-# Release 7.0
-Welcome to the first release of this launcher! Please report bugs if you find any.
+## Spitzer Dam
+Robocraft's original third ice map is back!
 
-## Roboshop
-Reclaim StarterBots or purchase time-limited event robots.
+## New Building Utilities
+Seamless Copy-Paste, Bot Macro creation and the mighty Build Plane.
 
-## Discord Integration
-Discord Ruch Presense shows when you're playing. Disable it in Config.xml.
+## New Holoflags and Badge Cosmetics
+14 completely new holoflags and a special anniversary badge.
 
-## Mech legs
-Mech legs have been added to the game along with a brand new ability.
+## Music Overhaul
+Tons of music from various versions and spinoffs, fully configurable for your hearing pleasure.
 
-## Cosmetics
-New cosmetics, reskins, and colours are avialable to unlock in the tech tree.
+## Battle Arena Improvements
+New Sound Effects, Voiceovers and HUD Symbology to indicate Fusion Tower buffs.
 
-## Mayhem Deathmatch
-TDM with Powerups returns! Will last from 25th Oct to 3rd Sept.
+## ...and many more changes!
+You can find the full patch notes in our Discord's ``#announcements`` channel.
