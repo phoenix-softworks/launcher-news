@@ -1,5 +1,5 @@
 # Release 7.1 & 7.1.1
-*The 4 Year Anniversary Update*
+The 4 Year Anniversary Update
 
 ## Spitzer Dam
 Robocraft's original third ice map is back!
@@ -17,4 +17,4 @@ Tons of music from various versions and spinoffs, fully configurable for your he
 New Sound Effects, Voiceovers and HUD Symbology to indicate Fusion Tower buffs.
 
 ## ...and many more changes!
-You can find the full patch notes in our Discord's ``#announcements`` channel.
+You can find the full patch notes in our Discord Announcements channel.
