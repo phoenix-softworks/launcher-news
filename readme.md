@@ -17,4 +17,4 @@ Tons of music from various versions and spinoffs, fully configurable for your he
 New Sound Effects, Voiceovers and HUD Symbology to indicate Fusion Tower buffs.
 
 ## ...and many more changes!
-You can find the full patch notes in our [**Discord's**](https://rc15.net/discord) ``#announcements`` channel.
+You can find the full patch notes in our Discord ``#announcements`` channel.
