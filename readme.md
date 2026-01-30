@@ -1,20 +1,20 @@
-# Release 7.1 & 7.1.1
-*The 4 Year Anniversary Update*
+# Release 7.2
+*The January 2026 Update*
 
-## Spitzer Dam
-Robocraft's original third ice map is back for BA, TDM and Elimination!
+## Map Pings
+Backported from Team Orders, with some Quality of Life improvements!
 
-## New Building Utilities
-Seamless Copy-Paste, Bot Macro creation and the mighty Build Plane.
+## Bot Import/Export
+Easily Import, Export and Share your robots with others!
 
-## New Holoflags and Badge Cosmetics
-14 completely new holoflags, and a special anniversary badge.
+## Leaper Legs
+T-7/8 Walker Legs trade vertical jump height for horionzal leap distance!
 
-## Music Overhaul
-Tons of music from various versions and spinoffs, fully configurable for your hearing pleasure.
+## Mech Leg Dash Rework
+Mech Legs no longer dush, but instead gradually sprint!
 
-## Battle Arena Improvements
-New Sound Effects, Voiceovers and HUD Symbology to indicate Fusion Tower buffs.
+## Fusion Tower Placement Overhaul
+Positions of Fusion Towers in BA has been overhauled on most maps!
 
 ## ...and many more changes!
 You can find the full patch notes in our Discord #announcements channel.
