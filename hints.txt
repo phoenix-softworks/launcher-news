@@ -4,3 +4,4 @@ Hint: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eu fermentum
 [i]italics test[/i]
 [u]underline test[/u]
 [color=#FF0000]RED TEST[/color]
+[color=#FF0000][b]RED[/b] [u]TEST[/u][/color] [i]AND[/i] [b][color=#0000FF]BLUE TEST[/color][/b]
