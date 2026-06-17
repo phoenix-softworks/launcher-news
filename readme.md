@@ -1,3 +1,7 @@
+# Launcher Maintenance
+Due to maintenance on the Launcher Server, updates and such may be unavailalbe around UTC 2026-06-17 16.30 to about 17.30.
+Apoligies for any inconvinience.
+
 # Release 7.2
 *The January 2026 Update*
 
