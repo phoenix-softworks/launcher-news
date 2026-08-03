@@ -1,20 +1,20 @@
-# Release 7.2
-*The January 2026 Update*
+# Release 7.3
+*The August 2026 Update*
 
-## Map Pings
-Backported from Team Orders, with some Quality of Life improvements!
+## Fusion Towers MK2
+Backported from future versions of Robocraft!
 
-## Bot Import/Export
-Easily Import, Export and Share your robots with others!
+## FreeCam
+Now available in single player and replays with features like smooth camera and recording camera movement!
 
-## Leaper Legs
-T-7/8 Walker Legs trade vertical jump height for horionzal leap distance!
+## New Cubes
+Matt Grey and TX shapes added!
 
-## Mech Leg Dash Rework
-Mech Legs no longer dush, but instead gradually sprint!
+## VSync
+Vsync has now been added as a config option, no more screen tearing :D
 
-## Fusion Tower Placement Overhaul
-Positions of Fusion Towers in BA has been overhauled on most maps!
+## Various QOL Improvements
+From Thumbnails in Roboshop to smoothed scroll bars!
 
 ## ...and many more changes!
 You can find the full patch notes in our Discord #announcements channel.
