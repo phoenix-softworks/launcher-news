@@ -1,7 +1,33 @@
-Hint: Dont drink, and get caught driving
-Hint: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eu fermentum risus. Mauris porta sollicitudin ipsum. Donec tempor, augue ac tincidunt finibus, ante ex tristique ante, sed sollicitudin nibh lacus ac mi. Curabitur ac tincidunt massa. Pellentesque risus mauris, facilisis hendrerit augue id, porttitor pellentesque eros. In dignissim turpis lorem, a suscipit nisi lobortis ac. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse leo nibh, pretium non metus vitae, consectetur dictum dui. Curabitur lobortis enim diam. Suspendisse potenti. Donec id nisi sollicitudin enim semper luctus. Fusce eu ligula eget felis varius commodo id sed massa. 
-[b]BOLD TEST[/b]
-[i]italics test[/i]
-[u]underline test[/u]
-[color=#FF0000]RED TEST[/color]
-[color=#FF0000][b]RED[/b] [u]TEST[/u][/color] [i]AND[/i] [b][color=#0000FF]BLUE TEST[/color][/b]
+Hint: you can change your fps within the [b]Config.xml[/b] file
+Hint: Do /changes while in game for all the changes we have made!
+Hint: Plasma projectiles are larger against air targets.
+Hint: Manual fire with nano will heal cubes closest to the beam.
+Hint: Starter bots are available within the Roboshop!
+Hint: Export bots using /export to give to friends and access them in the Roboshop!
+Hint: Rudders apply force on the front tip while wings apply them at there centre
+Hint: Shift click in the tech tree to unlock without confirmation
+Hint: Shift click to buy/sell 10 cubes, Ctrl for 100, and both for 1,000!
+Hint: Do /discord while in game for the link to the discord!
+Hint: There a promo code somewhere on the mothership. As for where....
+Hint: Find all the yellow thruster easter eggs on each map!
+Hint: T8 insect legs now leap forward!
+Hint: There is a thing such as too many shields.
+Hint: Cubes differ in weight and health based on the shape.
+Thanks for coming back!
+Hint: Have at least 6 guns for maximum firepower
+Hint: T1-T9 cubes/parts can be shown and used via the [b]Config.XML[/b] file
+Hint: Use /map along with a map name to select a different map for practice mode
+Hint: Use /replay along with a replay file name to watch them!
+Wanna get notified when games are on? go to [b]Channels & Roles[/b] in the discord server and give yourself the [b]@Looking for Games[/b] role!
+Hint: Drones and thruster sticks got nerfed.
+Hint: Electronitivity is how much damage it does against shield hp.
+Hint: Protonotivity is how much damage it does against tower crystals.
+Hint: Mechs go faster when going in a straight line.
+Hint: Ski's now apply thrust and are no longer useless.
+Hint: People are more likely to join the game if people are in voice chats.
+Hint: There are more active players during the weekends.
+Hint: There is a TX-2 weapon available during special events
+Hint: Tank treads take less damage when overclocked
+Hint: Overclocking increases the stats of movement and hardware parts
+Hint: Descriptions of cubes when hovering over them now have more information... Read them!
+
