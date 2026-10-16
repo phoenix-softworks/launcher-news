@@ -26,8 +26,10 @@ Hint: Mechs go faster when going in a straight line.
 Hint: Ski's now apply thrust and are no longer useless.
 Hint: People are more likely to join the game if people are in voice chats.
 Hint: There are more active players during the weekends.
-Hint: There is a TX-2 weapon available during special events
-Hint: Tank treads take less damage when overclocked
-Hint: Overclocking increases the stats of movement and hardware parts
+Hint: There is a TX-2 weapon available during special events.
+Hint: Tank treads take less damage when overclocked.
+Hint: Overclocking increases the stats of movement and hardware parts.
 Hint: Descriptions of cubes when hovering over them now have more information... Read them!
-
+Hint: There is a promocode on the mothership... Have fun finding it :3
+Welcome to RC15... Again!
+Hint: You can ask for GC, RP, or TP by asking a developer.
