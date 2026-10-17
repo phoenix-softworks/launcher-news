@@ -19,8 +19,8 @@ Updated the minimap texture for Marathon Hills.
 
 ## Bug Fixes
 Roboshop scrollbar is no longer limited to ~28 robots.
-Fixed Bloom in battle (via 'EnableBloomInBattle' config option) not working at all.
-Fixed God Rays in battle (via 'EnableGodRaysInBattle' config option) not working at all.
+Fixed Bloom in battle (via `EnableBloomInBattle` config option) not working at all.
+Fixed God Rays in battle (via `EnableGodRaysInBattle` config option) not working at all.
 
 ## ...and more!
 You can find the full patch notes in our Discord #announcements channel.
